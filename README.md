@@ -1,4 +1,4 @@
-# ProgramacionParaVideojuegos824
+# ProgramacionParaVideojuegos824 v.2.0.
 This is my repository
 # 🎮 MiniJuego 2D – Supervivencia en la Jungla
 
